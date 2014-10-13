@@ -1,0 +1,4 @@
+productManagement
+=================
+
+Sample AngularJS application
